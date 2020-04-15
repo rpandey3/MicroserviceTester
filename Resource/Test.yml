@@ -1,0 +1,14 @@
+# Details of a user
+---
+ApplId: CEOPY
+OrgtnChnl: string
+ApplCstmrId: String
+ApplusrId: String
+Action: String
+BatchInf:
+- PmtRail: String
+  ApplBatchId: String
+  ErrorInfo:
+  - Code: string
+    message: string
+  
